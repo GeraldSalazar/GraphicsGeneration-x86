@@ -8,3 +8,4 @@ palabras.
 y el texto en negro con un bit en cero) contenida en un archivo de texto plano con resolución de 250x250 px.
 3.  Cada letra es 10 × 10 con un espacio de 1 píxel a la
 izquierda y abajo de cada letra.
+![image](https://user-images.githubusercontent.com/39849481/162957597-b6e02c07-17c1-40fa-8c75-d198dee62d2e.png)
