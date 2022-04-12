@@ -1,0 +1,21 @@
+html, body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #fbf1df;
+}
+.grid-container{
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#grid{
+    overflow:visible;
+    padding: 10px;
+    margin: 0;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 3px #888888;
+}
